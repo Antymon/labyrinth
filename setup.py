@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='labyrinth',
       version='0.1',
-      url='https://gitlab.com/Antymon/vector_ai_tasks',
+      url='https://github.com/Antymon/labyrinth',
       author='Szymon Brych',
       author_email='szymon.brych@gmail.com',
       license='MIT',
