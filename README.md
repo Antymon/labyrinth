@@ -4,7 +4,7 @@ Simple Python one-class randomized maze generator.
 
 Generates mazes based on Depth First Search.
 
-###Example usage:
+### Example usage:
 
 ```python
 import time
@@ -19,7 +19,7 @@ l = Labyrinth(size, size, start, straightness_factor=0.1)
 l.print('maze_{}.png'.format(time.time()))
 ```
 
-###Example mazes
+### Example mazes
 Yellow box symbolizes start. Isolated cells are separately highlighted.
 
 [maze_0]: examples/maze.png
