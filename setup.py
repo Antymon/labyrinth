@@ -8,7 +8,7 @@ setup(name='labyrinth',
       license='MIT',
       packages=['labyrinth'],
       install_requires=[
-          'numpy==1.18.1',
+          'numpy==1.22.0',
           'matplotlib==3.1.2',
       ],
       zip_safe=False)
